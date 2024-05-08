@@ -1201,3 +1201,28 @@ footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-conte
     display: flex;
     flex-wrap: wrap;
 }
+footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-content .content ul li p a,
+.comments .comment-list .comment .com-content .com-title .com-title-meta span,
+.authors .author-content span,
+.clients-section.style-2 .section-wrapper .clients .client-list .client-thumb::after,
+.clients-section.style-2 .section-wrapper .clients .client-list .client-thumb::before,
+.workshop-join .section-wrapper .workshop-title h5,
+.instructor-single-section .instructor-wrapper .instructor-single-top .instructor-single-item .instructor-single-content ul li span,
+.course-video .course-video-content .accordion-item .accordion-header span,
+.pageheader-section.style-2 .pageheader-content .phs-thumb .course-reiew,
+.pageheader-section.style-2 .pageheader-content .phs-thumb span,
+.header-bar span,
+.header-top-area .social-icons li a,
+.feature-item .feature-inner .feature-content .lab-btn-text span,
+.count-item .count-inner .count-icon i,
+.post-item .post-inner .post-footer .pf-right .comment-count,
+.course-item.style-3 .course-inner .course-thumb .course-info li span,
+.scrollToTop i,
+.lab-btn,
+.section-header .subtitle,
+a {
+    display: inline-block;
+}
+.header-top {
+    border-bottom: 1px solid rgba(16, 17, 21, 0.1);
+}
