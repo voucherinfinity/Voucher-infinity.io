@@ -1,6 +1,7 @@
-.preloader{
+.preloader {
     overflow: hidden;
 }
+
 .preloader {
     position: fixed;
     top: 0;
@@ -71,7 +72,8 @@
 .scrollToTop {
     display: inline-block;
 }
-.scrollToTop{
+
+.scrollToTop {
     color: #fff;
 }
 
@@ -435,6 +437,7 @@
         background: #fff;
     }
 }
+
 .course-side-detail .csd-content .sidebar-social .ss-content ul li a.rss,
 .app-section .section-header .lab-btn:hover,
 .register-section,
@@ -479,6 +482,7 @@
 .yellow-color-section .section-header .course-navi {
     background: #3183f7;
 }
+
 .choose-section .section-header ul li i,
 .app-section .section-header .lab-btn span,
 .register-section .section-wrapper .register-form .lab-btn span,
@@ -526,6 +530,7 @@
 .section-header .subtitle.yellow-color {
     color: #3183f7;
 }
+
 .comment-respond .add-comment .comment-form textarea,
 .course-side-cetagory .csc-content,
 .clients-section.style-2 .section-wrapper .clients .client-list .client-content,
@@ -540,6 +545,7 @@
 .course-item.style-2 .course-inner .course-content {
     padding: 15px;
 }
+
 footer.style-2 .footer-bottom .section-wrapper .footer-bottom-list a,
 .date li,
 .pageheader-section.style-2 .pageheader-content .phs-thumb span,
@@ -551,6 +557,7 @@ footer.style-2 .footer-bottom .section-wrapper .footer-bottom-list a,
 .account-form .form-group .checkgroup input[type=checkbox] {
     margin-right: 15px;
 }
+
 footer.style-2 .footer-bottom .section-wrapper .footer-bottom-list a:last-child,
 footer.style-2 .footer-top .footer-item.our-address .footer-inner .footer-content .content ul li i,
 .widget.shop-widget .widget-wrapper .shop-menu li.menu-item-has-children,
@@ -562,6 +569,7 @@ footer.style-2 .footer-top .footer-item.our-address .footer-inner .footer-conten
 .course-item.style-3 .course-inner .course-content .course-details div:last-child {
     margin-right: 0;
 }
+
 .widget.widget-tags ul.widget-wrapper li a.active,
 .widget.widget-tags ul.widget-wrapper li a:hover,
 .blog-single .section-wrapper .post-item .post-inner .post-content .tags-section .tags li a:hover,
@@ -612,6 +620,7 @@ footer.style-2 .footer-top .footer-item.our-address .footer-inner .footer-conten
 .course-navi {
     background: #f16126;
 }
+
 footer.style-2 .footer-bottom .section-wrapper .footer-bottom-list a:hover,
 footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-content .content ul li p a,
 footer.style-2 .footer-top .footer-item.our-address .footer-inner .footer-content .content ul.office-address li i,
@@ -693,6 +702,7 @@ footer.style-2 .footer-top .footer-item .footer-inner .footer-content .content u
 .theme-color {
     color: #f16126;
 }
+
 footer.style-2 .footer-top.dark-view,
 .skill-section,
 .instructor-section.style-2,
@@ -701,6 +711,7 @@ footer.style-2 .footer-top.dark-view,
 .header-section.style-7 .menu-item-has-children>a::before {
     background: #101115;
 }
+
 .news-letter .section-wrapper .news-form form .nf-list input[type=email],
 .widget.widget-search,
 .widget,
@@ -773,6 +784,7 @@ footer.style-2 .footer-top.dark-view,
 .clients-slider-nav {
     background-color: #fff;
 }
+
 .news-letter .section-wrapper .news-form form .nf-list input[type=submit],
 .news-letter .section-wrapper .news-title h3,
 .footer-top .footer-item.our-address .footer-inner .footer-content .content ul li span,
@@ -876,7 +888,9 @@ footer.style-2 .footer-top.dark-view,
 .course-item .course-inner .course-content .course-footer,
 .course-item .course-inner .course-content .course-details {
     justify-content: space-between;
-}-area .header-top-reglog a,
+}
+
+-area .header-top-reglog a,
 .header-section.style-3 .header-top .header-top-area .header-top-contact a,
 .event-item.style-2 .event-inner .event-content .lab-btn span,
 .event-item.style-2 .event-inner .event-content h5,
@@ -898,6 +912,7 @@ footer.style-2 .footer-top.dark-view,
 .course-navi {
     color: #fff;
 }
+
 footer.style-2 .footer-top .footer-item .footer-inner .footer-content .title h4::after,
 .student-feedbak-section::before,
 .feature-section.style-3::after,
@@ -912,6 +927,7 @@ footer.style-2 .footer-top .footer-item .footer-inner .footer-content .title h4:
 .course-item.style-4 .course-inner .course-thumb .course-category .course-cate a::before {
     display: none;
 }
+
 .news-letter .section-wrapper,
 footer.style-2 .footer-bottom .section-wrapper,
 .blog-single .section-wrapper .post-item .post-inner .post-content .tags-section,
@@ -945,6 +961,7 @@ footer.style-2 .footer-bottom .section-wrapper,
 .account-form .form-group .checkgroup {
     align-items: center;
 }
+
 .news-letter .section-wrapper .news-form form .nf-list,
 .news-letter .section-wrapper .news-title,
 .widget.shop-widget .widget-wrapper .shop-menu li .shop-submenu,
@@ -1031,6 +1048,7 @@ textarea,
 select {
     width: 100%;
 }
+
 .news-letter .section-wrapper .news-form form .nf-list::after,
 .news-footer-wrap .fs-shape img,
 .footer-top .footer-item .footer-inner .footer-content .title h4::after,
@@ -1120,6 +1138,7 @@ select {
     position: absolute;
     content: "";
 }
+
 .news-letter .section-wrapper,
 footer.style-2 .footer-bottom .section-wrapper,
 footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-content .content ul li,
@@ -1201,6 +1220,7 @@ footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-conte
     display: flex;
     flex-wrap: wrap;
 }
+
 footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-content .content ul li p a,
 .comments .comment-list .comment .com-content .com-title .com-title-meta span,
 .authors .author-content span,
@@ -1223,6 +1243,124 @@ footer.style-2 .footer-top .footer-item.twitter-post .footer-inner .footer-conte
 a {
     display: inline-block;
 }
+
 .header-top {
     border-bottom: 1px solid rgba(16, 17, 21, 0.1);
+}
+
+.header-top-area .left {
+    margin: 0 -25px;
+}
+
+@media (max-width: 1199px) {
+    .header-top-area .social-icons li a {
+        height: 46px;
+        line-height: 46px;
+        width: 46px;
+    }
+}
+
+.header-top-area .social-icons li a {
+    height: 50px;
+    line-height: 50px;
+    width: 50px;
+    color: #f16126;
+    background: transparent;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+@media (min-width: 576px) {
+    .header-wrapper {
+        position: relative;
+    }
+}
+
+.header-wrapper {
+    padding: 19px 0;
+}
+
+.news-letter .section-wrapper,
+footer.style-2 .footer-bottom .section-wrapper,
+.blog-single .section-wrapper .post-item .post-inner .post-content .tags-section,
+.course-side-detail .csd-title,
+.shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li,
+.shop-cart .section-wrapper .cart-bottom .cart-checkout-box,
+.shop-single .review .review-content .description .post-item,
+.shop-single .review .review-content .review-showing .client-review .review-form form .rating,
+.shop-single .review .review-content .review-showing .content li .post-content .entry-meta,
+.shop-single .product-details .post-content form,
+.shop-single .product-details .post-content p.rating,
+.shop-page .modal .modal-dialog .modal-content .modal-body .product-details-inner .cart-button,
+.shop-page .shop-product-wrap .product-item,
+.shop-page .shop-product-wrap .product-list-item,
+.about-section .about-right .section-wrapper ul li,
+.course-section.style-3 .section-header,
+.category-section.style-4 .section-wrapper .category-item .category-inner .category-content,
+.header-wrapper .menu-area,
+.header-wrapper,
+.header-top-area,
+.header-section.style-2 .logo-search-acte,
+.feature-item .feature-inner,
+.event-item .event-inner .event-content,
+.contact-item,
+.skill-item .skill-inner,
+.post-item .post-inner .post-footer,
+.post-item .post-inner .post-content .meta-post ul,
+.instructor-item.style-2 .instructor-inner,
+.course-item.style-2 .course-inner,
+.course-item .course-inner .course-content .course-footer,
+.account-form .form-group .checkgroup {
+    align-items: center;
+}
+
+footer.style-2 .footer-bottom .section-wrapper,
+.blog-single .section-wrapper .post-item .post-inner .post-content .tags-section,
+.comment-respond .add-comment .comment-form,
+.comments .comment-list .comment,
+.navigations-part,
+.csdc-lists ul li,
+.course-side-detail .csd-title,
+.shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li,
+.shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout,
+.shop-cart .section-wrapper .cart-bottom .cart-checkout-box,
+.shop-single .review .review-content .review-showing .content li .post-content .entry-meta,
+.shop-single .product-details .post-content form,
+.workshop-join .workshop-join-form form .input-area,
+.workshop-join .workshop-join-form form,
+.instructor-single-section .instructor-wrapper .instructor-single-top .instructor-single-item,
+.contact-info-section .section-wrapper,
+.course-section.style-3 .section-header,
+.header-wrapper,
+.header-top-area,
+.event-item .event-inner .event-content,
+.achieve-item .achieve-inner,
+.post-item .post-inner .post-footer,
+.stu-feed-item .stu-feed-inner .stu-feed-top,
+.course-item.style-4 .course-inner .course-thumb .course-category,
+.course-item .course-inner .course-content .course-footer,
+.course-item .course-inner .course-content .course-details {
+    justify-content: space-between;
+}
+body {
+    background: #fff;
+    color: #555555;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+@media (max-width: 1199px) {
+    .header-top-area .left li {
+        font-size: 14px;
+        padding: 9px 15px;
+    }
+}
+.header-top-area .left li {
+    padding: 15px 25px;
+    border-right: 1px solid rgba(16, 17, 21, 0.1);
+}
+
+.header-top-area .left li:last-child {
+    border-right: none;
 }
